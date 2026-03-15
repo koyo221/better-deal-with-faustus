@@ -57,7 +57,7 @@ function App() {
     <div className="py-6 space-y-6">
       <div>
         <h1 className="text-2xl font-bold text-white">
-          PoE1 Currency Exchange Calculator
+          Better Deal with Faustus
         </h1>
         <p className="text-sm text-gray-400 mt-1">
           Compare Divine Orb vs Chaos Orb prices to find the best deal. Enter

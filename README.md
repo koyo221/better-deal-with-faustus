@@ -1,8 +1,8 @@
-# PoE1 Currency Exchange Calculator
+# Better Deal with Faustus
 
-A tool for Path of Exile 1 players to compare whether buying an item with Divine Orbs or Chaos Orbs is more cost-effective.
+A tool for Path of Exile 1 players to compare whether buying an item with Divine Orbs or Chaos Orbs is more cost-effective. Named after Faustus, the in-game currency exchange NPC.
 
-**Live:** https://koyo221.github.io/poe-currency-tool/
+**Live:** https://koyo221.github.io/better-deal-with-faustus/
 
 ## Features
 
